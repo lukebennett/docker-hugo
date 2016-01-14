@@ -7,7 +7,7 @@ Docker image for the [Hugo](http://gohugo.io) static site generator. Available o
 For ease of use, add the following alias to your shell:
 
 ```
-alias hugo='docker run --rm -v $(pwd):/var/www -p 1313:1313 -u $(id -u):$(id -u) docker-hugo'
+alias hugo='docker run --rm -v $(pwd):/var/www -p 1313:1313 -u $(id -u):$(id -u) lukebennett/hugo'
 ```
 
 This allows Hugo to be used as if installed on the host machine e.g.:
