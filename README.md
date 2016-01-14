@@ -1,6 +1,6 @@
-# lukebennett/docker-hugo
+# lukebennett/hugo
 
-Docker base image for the [Hugo](http://gohugo.io) static site generator.
+Docker image for the [Hugo](http://gohugo.io) static site generator. Available on the [Docker Hub](https://hub.docker.com/r/lukebennett/hugo).
 
 ## Usage
 
